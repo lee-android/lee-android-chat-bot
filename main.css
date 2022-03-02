@@ -1,12 +1,12 @@
 body{
-    width: 100%;
+    width: 100vw;
     /* max-width: 600px; */
     background: url(https://wallpaperaccess.com/full/3200605.jpg) no-repeat;
     overflow-x: hidden;
 }
 
 .container{
-    width: 450px;
+    width: 350px;
     height: 100%;
     background-color: #fff;
     margin: 0 auto;
@@ -37,7 +37,7 @@ body{
     width: 40px;
     margin: 0 auto;
     padding-top: 30px;
-    opacity: 20%;
+    opacity: 40%;
 }
 
 h1{
@@ -60,7 +60,7 @@ p{
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 43px;
+    font-size: 29px;
     animation: rainbow 3s ease infinite;
     -webkit-animation: rainbow 3s ease infinite;
 }
@@ -95,13 +95,13 @@ p{
 .offer{
     margin: 0 auto;
     max-width: 400px;
-    width: 100%;
+    width: 89%;
     word-wrap: normal;
     padding-top: 5px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
     text-align: center;
-    font-size: 19px;
+    font-size: 16px;
     padding-bottom: 40px;
 }
 
@@ -181,6 +181,6 @@ button a {
 .footer p{
     margin: 0 auto;
     display: block;
-    width: 380px;
-    font-size: 8px;
+    width: 290px;
+    font-size: 6px;
 }
